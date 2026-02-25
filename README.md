@@ -56,11 +56,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashu4you&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu4you&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashu4you&show_icons=true&theme=default"/>
-</p>
+![Aashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashu4you&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu4you&layout=compact&theme=tokyonight)
 
 ---
 
