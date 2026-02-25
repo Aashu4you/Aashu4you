@@ -1,79 +1,89 @@
-# 👋 Hi, I'm Aashutosh Sharma
+<div align="center">
 
-🎓 **Computer Science Student at VIT Bhopal University**  
-💻 **Web Developer | ML & Data Enthusiast**  
-🚀 I enjoy building practical, real-world projects that solve meaningful problems.
+# 👋 Aashutosh Sharma
 
----
+### Web Developer • ML & Data Enthusiast • CS Student
 
-## 👨‍💻 About Me
+📍 VIT Bhopal University  
+📧 **ats4219511@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/) • 🧠 [LeetCode](https://leetcode.com/u/Aashu_0/) • 🐙 [GitHub](https://github.com/Aashu4you)
 
-- Passionate about **web development, data analytics, and applied machine learning**
-- Love turning ideas into **simple, usable products**
-- Actively improving my **DSA & problem-solving skills**
-- Open to **internships, collaborations, and hackathons**
-
-📫 **Email:** ats4219511@gmail.com  
-💼 **LinkedIn:** [Aashutosh Sharma](https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/)  
-🧠 **LeetCode:** [Aashu_0](https://leetcode.com/u/Aashu_0/)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💼 Profile
 
-### 🔹 SignBridge – Speech to Sign Language Converter
-Converts spoken or typed text into sign language animations to improve accessibility.  
-**Tech:** JavaScript, Web APIs  
-🔗 https://github.com/Aashu4you/SignBridge
+I’m a Computer Science student who enjoys building **clean, functional web applications** and experimenting with **data-driven and ML-based solutions**. I focus on writing understandable code, learning by building projects, and improving my problem-solving skills through consistent practice.
+
+I’m actively looking for **internship opportunities**, open-source collaboration, and hackathons.
 
 ---
 
-### 🔹 Farmify
-Crop scheduling and inventory management system with weather API integration.  
-**Tech:** Web Technologies, APIs  
-🔗 https://github.com/Aashu4you/Farmify-
+## 🧰 Skills & Tools
+
+**Languages & Web**  
+HTML • CSS • JavaScript • Python • React • Node.js  
+
+**Data & ML**  
+NumPy • Pandas • Scikit-Learn  
+
+**Tools**  
+Git • GitHub • VS Code • APIs
+
+---
+
+## 🚀 Projects
+
+### 🔹 SignBridge — Speech to Sign Language Converter
+**Accessibility-focused web application** that converts spoken or typed input into sign language animations.
+
+- Improves accessibility for hearing-impaired users  
+- Focus on usability and real-world impact  
+
+🔗 Repository: https://github.com/Aashu4you/SignBridge
+
+---
+
+### 🔹 Farmify — Smart Agriculture Management
+Web-based system for **crop scheduling and inventory management**, integrated with a weather API.
+
+- Helps farmers plan crops more efficiently  
+- Demonstrates API integration and data handling  
+
+🔗 Repository: https://github.com/Aashu4you/Farmify-
 
 ---
 
 ### 🔹 Chemical Equipment Visualizer
-Interactive web app to visualize chemical laboratory equipment for learning purposes.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 https://github.com/Aashu4you/chemical-equipment-visualizer
+Interactive educational tool to visualize **chemical laboratory equipment**.
+
+- Designed for students and beginners  
+- Clean UI with informative visuals  
+
+🔗 Repository: https://github.com/Aashu4you/chemical-equipment-visualizer
 
 ---
 
-## 🛠️ Skills
+## 🧠 Problem Solving & Learning
 
-### 💻 Programming & Web
-- HTML, CSS, JavaScript
-- React (Basics)
-- Node.js
-- Python
-
-### 📊 Data & ML
-- NumPy
-- Pandas
-- Scikit-Learn
-
-### 🧰 Tools
-- Git & GitHub
-- VS Code
+- Regular practice on **LeetCode**
+- Strong focus on **DSA fundamentals**
+- Learning by building and refining real projects
 
 ---
 
-## 🧠 Problem Solving
+## 🤝 Contact & Links
 
-- Regular LeetCode practice
-- Focus on **DSA fundamentals**
-- Improving logical thinking & optimization skills
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/
-- 📧 Email: ats4219511@gmail.com
+- 📧 Email: **ats4219511@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/  
+- 🧠 LeetCode: https://leetcode.com/u/Aashu_0/  
+- 🐙 GitHub: https://github.com/Aashu4you  
 
 ---
 
-⭐ *Always curious. Always building. Always learning.*
+<div align="center">
+
+✨ *Building useful things, one project at a time.*
+
+</div>
