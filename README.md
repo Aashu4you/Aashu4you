@@ -1,91 +1,71 @@
-<div align="center">
+# 👋 Hi, I'm Aashutosh Sharma
 
-# 👋 Aashutosh Sharma
+<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="280" alt="coding gif"/>
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320" alt="coding gif"/>
+🎓 **Computer Science Student — VIT Bhopal University**  
+💻 **Web Developer | ML & Data Enthusiast**  
 
-### Web Developer • ML & Data Enthusiast • CS Student
-
-📍 VIT Bhopal University  
-📧 **ats4219511@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/) • 🧠 [LeetCode](https://leetcode.com/u/Aashu_0/) • 🐙 [GitHub](https://github.com/Aashu4you)
-
-</div>
+📧 Email: **ats4219511@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/  
+🧠 LeetCode: https://leetcode.com/u/Aashu_0/  
+🐙 GitHub: https://github.com/Aashu4you  
 
 ---
 
-## 🧑‍💼 Profile
+## 🧑‍💼 About Me
 
-I’m a Computer Science student who enjoys building **clean, functional web applications** and experimenting with **data-driven and ML-based solutions**. I focus on writing understandable code, learning by building projects, and improving my problem-solving skills through consistent practice.
+I’m a Computer Science student who enjoys building **clean, functional web applications** and experimenting with **data-driven and machine learning solutions**. I believe in learning by doing and focus on creating projects that solve real-world problems.
 
-I’m actively looking for **internship opportunities**, open-source collaboration, and hackathons.
+Currently open to **internships, open-source collaboration, and hackathons**.
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Skills
 
-**Languages & Web**  
+**Programming & Web**  
 HTML • CSS • JavaScript • Python • React • Node.js  
 
 **Data & ML**  
 NumPy • Pandas • Scikit-Learn  
 
-**Tools**  
-Git • GitHub • VS Code • APIs
+**Tools & Platforms**  
+Git • GitHub • VS Code • APIs  
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 SignBridge — Speech to Sign Language Converter
-Accessibility-focused web application that converts spoken or typed input into sign language animations.
-
-- Built to improve accessibility for hearing-impaired users  
-- Emphasis on usability and real-world impact  
-
+Accessibility-focused web application that converts spoken or typed input into sign language animations.  
 🔗 https://github.com/Aashu4you/SignBridge
 
 ---
 
 ### 🔹 Farmify — Smart Agriculture Management
-Web-based system for crop scheduling and inventory management with weather API integration.
-
-- Helps optimize crop planning  
-- Demonstrates API usage and data handling  
-
+Crop scheduling and inventory management system with weather API integration.  
 🔗 https://github.com/Aashu4you/Farmify-
 
 ---
 
 ### 🔹 Chemical Equipment Visualizer
-Interactive educational web app to visualize chemical laboratory equipment.
-
-- Designed for students and beginners  
-- Clean UI with informative visuals  
-
+Interactive educational web app to visualize chemical laboratory equipment.  
 🔗 https://github.com/Aashu4you/chemical-equipment-visualizer
 
 ---
 
-## 🧠 Problem Solving & Learning
+## 🧠 Problem Solving
 
-- Regular LeetCode practice  
-- Strong focus on DSA fundamentals  
-- Learning by building and iterating on projects
-
----
-
-## 🤝 Contact & Links
-
-- 📧 Email: **ats4219511@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/  
-- 🧠 LeetCode: https://leetcode.com/u/Aashu_0/  
-- 🐙 GitHub: https://github.com/Aashu4you  
+- Regular practice on **LeetCode**
+- Strong focus on **DSA fundamentals**
+- Improving logical thinking and optimization skills
 
 ---
 
-<div align="center">
+## 🤝 Contact
 
-✨ *Building useful things, one project at a time.*
+- 📧 **ats4219511@gmail.com**  
+- 💼 https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/  
 
-</div>
+---
+
+_Always learning. Always building._
