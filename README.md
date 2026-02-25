@@ -56,10 +56,11 @@
 
 ## 📊 GitHub Stats
 
-![Aashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashu4you&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aashu4you&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu4you&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aashu4you&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu4you&layout=compact&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aashu4you&theme=tokyonight)t)
 
 ---
 
