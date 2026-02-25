@@ -1,84 +1,79 @@
-<h1 align="center">Hi there 👋, I'm Aashutosh Sharma</h1>
-<h3 align="center">🚀 Web Developer | ML & Data Enthusiast | Project-Driven Learner</h3>
+# 👋 Hi, I'm Aashutosh Sharma
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+🎓 **Computer Science Student at VIT Bhopal University**  
+💻 **Web Developer | ML & Data Enthusiast**  
+🚀 I enjoy building practical, real-world projects that solve meaningful problems.
+
+---
 
 ## 👨‍💻 About Me
 
-**🎓 Computer Science Student | VIT Bhopal University**
+- Passionate about **web development, data analytics, and applied machine learning**
+- Love turning ideas into **simple, usable products**
+- Actively improving my **DSA & problem-solving skills**
+- Open to **internships, collaborations, and hackathons**
 
-- **Currently Working On:** Web Development Projects, Data Analytics, and ML-based Applications  
-- **Open to Collaborate On:** Web Apps, Open Source Projects, Hackathons, and ML/Data Projects  
-- **Key Interests:** Frontend Development, Data Science, Applied Machine Learning  
-- **📫 Reach Me:** **ats4219511@gmail.com**  
-- **💼 LinkedIn:** [Aashutosh Sharma](https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/)  
-- **⚡ Fun Fact:** I enjoy building projects that solve real-world problems.
+📫 **Email:** ats4219511@gmail.com  
+💼 **LinkedIn:** [Aashutosh Sharma](https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/)  
+🧠 **LeetCode:** [Aashu_0](https://leetcode.com/u/Aashu_0/)
 
 ---
 
 ## 🚀 Featured Projects
 
-- **SignBridge – Speech to Sign Language Converter**  
-  Converts spoken or typed text into sign language animations  
-  🔗 https://github.com/Aashu4you/SignBridge
-
-- **Chemical Equipment Visualizer**  
-  Interactive web app for visualizing chemical laboratory equipment  
-  🔗 https://github.com/Aashu4you/chemical-equipment-visualizer
-
-- **Farmify**  
-  Crop scheduling and inventory management system with weather API integration  
-  🔗 https://github.com/Aashu4you/Farmify-
+### 🔹 SignBridge – Speech to Sign Language Converter
+Converts spoken or typed text into sign language animations to improve accessibility.  
+**Tech:** JavaScript, Web APIs  
+🔗 https://github.com/Aashu4you/SignBridge
 
 ---
 
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML5</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS3</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>Python</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>Pandas</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br>NumPy</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br>Scikit-Learn</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br>GitHub</td>
-  </tr>
-</table>
+### 🔹 Farmify
+Crop scheduling and inventory management system with weather API integration.  
+**Tech:** Web Technologies, APIs  
+🔗 https://github.com/Aashu4you/Farmify-
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aashu4you&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu4you&layout=compact&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aashu4you&theme=tokyonight)t)
-![Profile Views](https://komarev.com/ghpvc/?username=Aashu4you&color=blue)
----
-
-## 🧠 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/Aashu_0/">
-    <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge" />
-  </a>
-</p>
+### 🔹 Chemical Equipment Visualizer
+Interactive web app to visualize chemical laboratory equipment for learning purposes.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 https://github.com/Aashu4you/chemical-equipment-visualizer
 
 ---
 
-### 🤝 Connect With Me
+## 🛠️ Skills
 
-<a href="https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:ats4219511@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
-</a>
+### 💻 Programming & Web
+- HTML, CSS, JavaScript
+- React (Basics)
+- Node.js
+- Python
+
+### 📊 Data & ML
+- NumPy
+- Pandas
+- Scikit-Learn
+
+### 🧰 Tools
+- Git & GitHub
+- VS Code
+
+---
+
+## 🧠 Problem Solving
+
+- Regular LeetCode practice
+- Focus on **DSA fundamentals**
+- Improving logical thinking & optimization skills
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/aashutosh-sharma-207bab2b5/
+- 📧 Email: ats4219511@gmail.com
+
+---
+
+⭐ *Always curious. Always building. Always learning.*
