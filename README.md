@@ -61,7 +61,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu4you&layout=compact&theme=default)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aashu4you&theme=tokyonight)t)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Aashu4you&color=blue)
 ---
 
 ## 🧠 LeetCode
