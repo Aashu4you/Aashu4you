@@ -2,6 +2,8 @@
 
 # 👋 Aashutosh Sharma
 
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320" alt="coding gif"/>
+
 ### Web Developer • ML & Data Enthusiast • CS Student
 
 📍 VIT Bhopal University  
@@ -36,40 +38,40 @@ Git • GitHub • VS Code • APIs
 ## 🚀 Projects
 
 ### 🔹 SignBridge — Speech to Sign Language Converter
-**Accessibility-focused web application** that converts spoken or typed input into sign language animations.
+Accessibility-focused web application that converts spoken or typed input into sign language animations.
 
-- Improves accessibility for hearing-impaired users  
-- Focus on usability and real-world impact  
+- Built to improve accessibility for hearing-impaired users  
+- Emphasis on usability and real-world impact  
 
-🔗 Repository: https://github.com/Aashu4you/SignBridge
+🔗 https://github.com/Aashu4you/SignBridge
 
 ---
 
 ### 🔹 Farmify — Smart Agriculture Management
-Web-based system for **crop scheduling and inventory management**, integrated with a weather API.
+Web-based system for crop scheduling and inventory management with weather API integration.
 
-- Helps farmers plan crops more efficiently  
-- Demonstrates API integration and data handling  
+- Helps optimize crop planning  
+- Demonstrates API usage and data handling  
 
-🔗 Repository: https://github.com/Aashu4you/Farmify-
+🔗 https://github.com/Aashu4you/Farmify-
 
 ---
 
 ### 🔹 Chemical Equipment Visualizer
-Interactive educational tool to visualize **chemical laboratory equipment**.
+Interactive educational web app to visualize chemical laboratory equipment.
 
 - Designed for students and beginners  
 - Clean UI with informative visuals  
 
-🔗 Repository: https://github.com/Aashu4you/chemical-equipment-visualizer
+🔗 https://github.com/Aashu4you/chemical-equipment-visualizer
 
 ---
 
 ## 🧠 Problem Solving & Learning
 
-- Regular practice on **LeetCode**
-- Strong focus on **DSA fundamentals**
-- Learning by building and refining real projects
+- Regular LeetCode practice  
+- Strong focus on DSA fundamentals  
+- Learning by building and iterating on projects
 
 ---
 
